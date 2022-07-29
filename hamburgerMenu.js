@@ -9,7 +9,3 @@ document.querySelectorAll('.nav-link').forEach((n) => n.addEventListener('click'
   document.getElementById('myDropdown').classList.remove('show');
   document.getElementById('myHamburger').classList.remove('change');
 }));
-
-
-
-
