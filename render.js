@@ -11,6 +11,18 @@ const speakers = [
     Bio: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit Temporibus neque tempora enim',
     Featured_image: ' <img class="img" src="./img/kendrick.jpg" alt="Kendrick lamar from Compton"/>',
   },
+  {
+    Name: 'Sarkodie',
+    Rank: 'Ghanaian Rapper',
+    Bio: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit Temporibus neque tempora enim',
+    Featured_image: '<img class="img" src="./img/Sarkodie.jpg" alt="sarkodie from Ghana"/>',
+  },
+  {
+    Name: 'Kendrick Lamar',
+    Rank: 'American Rapper',
+    Bio: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit Temporibus neque tempora enim',
+    Featured_image: ' <img class="img" src="./img/kendrick.jpg" alt="Kendrick lamar from Compton"/>',
+  },
 ];
 
 function getSpeakers(speakers) {

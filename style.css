@@ -632,8 +632,8 @@ header {
 
   .flx1 {
     max-width: 100%;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: auto auto;
   }
 
   .speaker {
