@@ -637,10 +637,10 @@ header {
   }
 
   .speaker {
-    font-family: "Lato", sans-serif;
     display: flex;
+    font-family: "Lato", sans-serif;
     margin-bottom: 20px;
-    max-width: 100%;
+    width: 100%;
   }
 
   .speaker-img {
