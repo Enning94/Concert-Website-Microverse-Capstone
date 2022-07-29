@@ -8,13 +8,13 @@ const speakers = [
   {
     Name: 'Kendrick Lamar',
     Rank: 'American Rapper',
-    Bio:  'Lorem ipsum dolor sit, amet consectetur adipisicing elit Temporibus neque tempora enim',
+    Bio: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit Temporibus neque tempora enim',
     Featured_image: ' <img class="img" src="./img/kendrick.jpg" alt="" />',
   },
 ];
 
 function getSpeakers(speakers) {
-  let html = ``;
+  let html = '';
   for (let i = 0; i < speakers.length; i += 1) {
     html += ` <div class="speaker">
         <div class="speaker-img">
