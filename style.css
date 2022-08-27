@@ -522,6 +522,8 @@ header {
     color: #272a31;
     font-size: 20px;
     padding: 10px 20px;
+
+    background-color: beige
   }
 
   .date {
@@ -530,7 +532,7 @@ header {
     color: #272a31;
     font-size: 25px;
     opacity: 0.8;
-    font-weight: 500;
+    font-weight: 500;;
   }
 
   .second-sec {
