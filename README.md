@@ -1,6 +1,6 @@
 # Microverse-Capstone-Concert
 
-> This project was built as a Microverse capstone. It is a website for a music concert designed with HTML and CSS. JavaScript was used to render some part of the page dynamically. The highlight of this project is the image shake effect when the cursor hovers over any image.
+> This project was built as a Microverse capstone. It is a website for a music concert designed with HTML and CSS. JavaScript was used to render some parts of the page dynamically. The highlight of this project is the image shake effect when the cursor hovers over any image.
 
 ## Built With
 
